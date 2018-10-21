@@ -1,0 +1,115 @@
+
+.web-body {
+	overflow: auto;
+	-ms-overflow-style: none;  
+    overflow: -moz-scrollbars-none; 
+}
+
+.content-body{
+	overflow-y: scroll;
+	background-color: #fff;
+}
+
+.profile-content-image{
+	margin-left: 5%;
+}
+
+.profile-content-body{
+	margin: 0em 0em 3em 0em; 
+	padding: 0em 0em 0em 5em;
+}
+
+@media only screen and (min-width: 1368px) {
+	.profile-content-image{
+		margin-left: 13%;
+	}
+	.profile-content-body{
+		padding: 0em 0em 0em 0em;
+	}
+}
+
+.profile-greeting, .profile-details{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.resume-body{
+	overflow: hidden;
+}
+
+.resume-body::-webkit-scrollbar{
+	display:none;
+}
+
+.resume-divider{
+	margin-right: 1em;
+	margin-left: 1em;
+}
+
+.resume-body-left{
+	margin-right: -10em; /*placeholder*/
+	margin-left: 10em;
+}
+
+.resume-body-right{
+	margin-right: -10em; /*placeholder*/
+	margin-left: 10em;	
+}
+
+@media only screen and (min-width: 1368px) {
+	.resume-body-left{
+		margin-right: 0em; /*placeholder*/
+		margin-left: 0em;
+	}
+
+	.resume-body-right{
+		margin-right: 0em; /*placeholder*/
+		margin-left: 0em;	
+	}
+}
+
+.resume-content-left{
+	margin-bottom: 5em;
+}
+
+.resume-content-left-header-exp{
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 0.3em;
+}
+
+.resume-content-left-header-events{
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 0.8em;
+}
+
+.resume-content-leftjobbody1{
+	padding-bottom: 0.6em;
+}
+
+.resume-content-left-jobicon{
+	padding-top:0.5em;
+	padding-bottom: 1em;
+}
+
+.resume-content-left-jobicon1{
+	padding-top:1.2em;
+}
+
+.resume-content-left-jobtitle{
+	padding-bottom: 0.5em;
+}
+
+.works-body{
+	overflow: hidden;
+}
+
+.works-content{
+	margin-bottom: 3em;
+}
+
+.works-body::-webkit-scrollbar{
+	display:none;
+}
+
+.works-content-card:hover{
+	cursor: pointer;
+}

@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "50ea519ecd05c2a83c6f",
-    "url": "/portfolio/static/css/main.32e97a42.chunk.css"
+    "revision": "c487821e6d5a735e124e",
+    "url": "/portfolio/static/css/main.7a2ca7bf.chunk.css"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/portfolio/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/portfolio/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/portfolio/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "50ea519ecd05c2a83c6f",
-    "url": "/portfolio/static/js/main.50ea519e.chunk.js"
+    "revision": "c487821e6d5a735e124e",
+    "url": "/portfolio/static/js/main.c487821e.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/portfolio/static/media/icons.b87b9ba5.ttf"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/portfolio/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/portfolio/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/css/1.cb318d68.chunk.css"
   },
   {
-    "revision": "54c903f93e56e99eccf84e17c65e3136",
+    "revision": "29e54229454b23309a662ffa75ded49b",
     "url": "/portfolio/index.html"
   }
 ];
